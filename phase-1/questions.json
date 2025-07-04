@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning uses labeled data; unsupervised learning uses unlabeled data.",
+    "topic": "ML",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is overfitting in machine learning?",
+    "answer": "When a model performs well on training data but poorly on unseen data.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are Python lists and how are they different from tuples?",
+    "answer": "Lists are mutable, whereas tuples are immutable.",
+    "topic": "Python",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does the 'self' keyword mean in Python class methods?",
+    "answer": "'self' refers to the instance of the class calling the method.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Explain the concept of Big-O notation.",
+    "answer": "It describes the time or space complexity of an algorithm in the worst case.",
+    "topic": "DSA",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What data structure is used in a depth-first search?",
+    "answer": "Stack (explicitly or via recursion).",
+    "topic": "DSA",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is gradient descent?",
+    "answer": "An optimization algorithm used to minimize a function by updating parameters iteratively.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the difference between 'is' and '==' in Python?",
+    "answer": "'is' checks identity, '==' checks value equality.",
+    "topic": "Python",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a hash table?",
+    "answer": "A data structure that maps keys to values using a hash function.",
+    "topic": "DSA",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the purpose of regularization in ML?",
+    "answer": "To reduce overfitting by penalizing large weights.",
+    "topic": "ML",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the bias-variance tradeoff in machine learning?",
+    "answer": "It's the balance between underfitting (high bias) and overfitting (high variance).",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is cross-validation?",
+    "answer": "A technique to evaluate model performance by training and testing on different data splits.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a confusion matrix?",
+    "answer": "A table showing true positives, false positives, true negatives, and false negatives.",
+    "topic": "ML",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does the ROC curve represent?",
+    "answer": "It shows the tradeoff between true positive rate and false positive rate.",
+    "topic": "ML",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the purpose of feature scaling?",
+    "answer": "To normalize data so that each feature contributes equally to the model.",
+    "topic": "ML",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the difference between bagging and boosting?",
+    "answer": "Bagging trains models in parallel to reduce variance; boosting trains sequentially to reduce bias.",
+    "topic": "ML",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Explain precision and recall.",
+    "answer": "Precision is the accuracy of positive predictions; recall is the ability to find all positive cases.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a support vector machine (SVM)?",
+    "answer": "A supervised learning algorithm that finds the optimal hyperplane to classify data.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the difference between classification and regression?",
+    "answer": "Classification predicts categories; regression predicts continuous values.",
+    "topic": "ML",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is early stopping in training neural networks?",
+    "answer": "A regularization technique to stop training when validation error starts increasing.",
+    "topic": "ML",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are Python’s key features?",
+    "answer": "Python is dynamically typed, interpreted, object-oriented, and has a large standard library.",
+    "topic": "Python",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the difference between shallow copy and deep copy in Python?",
+    "answer": "Shallow copy copies references; deep copy copies objects recursively.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are list comprehensions in Python?",
+    "answer": "A concise way to create lists using a single line of code.",
+    "topic": "Python",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a Python generator?",
+    "answer": "A function that yields values lazily using the 'yield' keyword.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does Python’s memory management work?",
+    "answer": "Python uses automatic garbage collection and reference counting.",
+    "topic": "Python",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are *args and **kwargs in Python functions?",
+    "answer": "*args allows variable number of positional arguments, **kwargs allows keyword arguments.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the Global Interpreter Lock (GIL) in Python?",
+    "answer": "A mutex that allows only one thread to execute Python bytecode at a time.",
+    "topic": "Python",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the difference between 'is' and '==' in Python?",
+    "answer": "'is' checks for identity (same object), '==' checks for value equality.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the difference between a module and a package in Python?",
+    "answer": "A module is a single .py file; a package is a directory with __init__.py containing multiple modules.",
+    "topic": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are Python decorators?",
+    "answer": "Functions that modify the behavior of another function using the @ symbol.",
+    "topic": "Python",
+    "difficulty": "hard"
+  },
+  {
+    "question": "AI vs ML vs DL — What's the umbrella term?",
+    "answer": "AI",
+    "topic": "AI",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which AI system uses rules and logic to make decisions?",
+    "answer": "Expert",
+    "topic": "AI",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of search uses domain knowledge to guide decisions?",
+    "answer": "Heuristic",
+    "topic": "AI",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which algorithm combines path cost and heuristic?",
+    "answer": "A*",
+    "topic": "AI",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do we call an entity that perceives and acts in AI?",
+    "answer": "Agent",
+    "topic": "AI",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which logic system allows quantifiers and relationships?",
+    "answer": "First-order",
+    "topic": "AI",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What kind of AI bases decisions on outcomes and preferences?",
+    "answer": "Utility",
+    "topic": "AI",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which method uses repeated trials and rewards in AI?",
+    "answer": "Reinforcement",
+    "topic": "AI",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the opposite of general AI?",
+    "answer": "Narrow",
+    "topic": "AI",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is used to draw conclusions from known facts?",
+    "answer": "Inference",
+    "topic": "AI",
+    "difficulty": "medium"
+  }
+]
