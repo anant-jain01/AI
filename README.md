@@ -46,44 +46,36 @@ These are the core topics and resources I’m using to build a solid foundation 
   Beginner-friendly tutorial for version control and using GitHub effectively.
 
 ---
+## 📚 Phase 2 – Machine Learning + Projects
 
-## ✅ Progress Tracker
+> ⏳ *Status: Upcoming / In Progress*
 
-| Task / Resource                                      | Status     |
-|------------------------------------------------------|------------|
-| Python for Everybody (Week 1–4)                      | ✅ Completed |
-| Tech With Tim: Python Crash Course                   | ✅ Completed |
-| StatQuest: Probability & Statistics                  | ✅ Completeds |
-| Essence of Calculus (3Blue1Brown)                    | ✅ Completed |
-| Khan Academy: Linear Algebra                         | ✅ Completed |
-| Git & GitHub Crash Course                            | ✅ Completed |
+This phase focuses on building strong ML fundamentals and applying them through hands-on projects.
 
-*Progress will be updated as I complete resources or finish phases.*
+### 📚 Learn:
 
----
+- **Coursera** – [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)  
+  The classic introduction to supervised learning, logistic regression, neural networks, and more.
 
-## 🧠 Upcoming Phases (Placeholders)
+- **YouTube** – [Krish Naik: ML End-to-End Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)  
+  Practical ML workflow tutorials including data preprocessing, model building, and evaluation.
 
-- **Phase 2:** Machine Learning – Courses (e.g. Andrew Ng), basic models, projects
+### 🧪 Practice:
+
+- [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  
+  A beginner-friendly competition to apply classification techniques.
+
+- [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)  
+  A regression-focused challenge perfect for testing feature engineering and model tuning.
+
+
+## 🧠 Upcoming Phases 
 - **Phase 3:** Deep Learning – Neural networks, CNNs, RNNs, mini-projects
 - **Phase 4:** Specializations – Choose CV/NLP/RL and go deeper
 - **Phase 5:** MLOps – Tools like Docker, FastAPI, CI/CD, monitoring
 - **Phase 6:** Final polish, resume projects, and job preparation
 
 ---
-
-## 🛠️ Tools & Technologies
-
-> These will evolve over time based on the phase and focus.
-
-- Python, Git/GitHub
-- NumPy, Pandas, Scikit-learn
-- TensorFlow / PyTorch (TBD)
-- Docker, FastAPI, Streamlit
-- VS Code, Jupyter, Google Colab
-
----
-
 ## 📌 Goals
 
 - 🧱 Build a strong foundational understanding
