@@ -1,0 +1,27 @@
+univariate takes one feature 
+eg weith height o/p given using weight
+univariate takes one feature 
+eg weith height o/p given using weight (one single horizontal line on graph)
+
+Height(cm) | Weight(kg) | Output
+-----------|------------|--------
+162        | 54         | slim
+175        | 90         | obese
+168        | 62         | slim
+181        | 105        | obese
+159        | 48         | slim
+170        | 80         | obese
+165        | 58         | slim
+178        | 95         | obese
+160        | 52         | slim
+
+
+bivariate uses 2 height and weight(scatter plot on graph)
+lr can be used if cleaned data else clustering etc to cleaned
+
+multivariate has more than 2 to consider
+as variales inc brain goes mush use multiple graph like sns.pairplot
+![alt text](image.png)
+if x -> y-> =>correlation== + else neg
+if cant d4ecide=>correlation==0
+-1<=corr<=1
